@@ -1,0 +1,213 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 757px;
+}
+
+.master{
+    height: 770px;
+    width: 100%;
+    background-color: black;
+    
+}
+.master1{
+    height: 110px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.submaster1{
+    height: 110px;
+    width: 110px;
+    border-top: none;
+    border-radius: 20%;
+    
+}
+
+.submaster1:hover{
+    background-color: red;
+    border-color: red;
+    transition:all 0.4s linear ;
+}
+
+.submaster1:not(:hover){
+    transition:all 1s linear 1s ;
+
+}
+
+
+.master2{
+    height: 110px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.submaster2{
+    height: 110px;
+    width: 110px;
+    border-top: none;
+    border-radius: 20%;
+    
+}
+
+.submaster2:hover{
+    background-color: red;
+    border-color: red;
+    transition:all 0.4s linear ;
+}
+
+.submaster2:not(:hover){
+    transition:all 1s linear 1s ;
+
+}
+
+
+
+.master3{
+    height: 110px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.submaster3{
+    height: 110px;
+    width: 110px;
+    border-top: none;
+    border-radius: 20%;
+    
+}
+
+.submaster3:hover{
+    background-color: red;
+    border-color: red;
+    transition:all 0.4s linear ;
+}
+
+.submaster3:not(:hover){
+    transition:all 1s linear 1s ;
+
+}
+
+
+.master4{
+    height: 110px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+.submaster4{
+    height: 110px;
+    width: 110px;
+    border-top: none;
+    border-radius: 20%;
+    
+}
+
+
+.submaster4:hover{
+    background-color: red;
+    border-color: red;
+    transition:all 0.4s linear ;
+}
+
+.submaster4:not(:hover){
+    transition:all 1s linear 1s ;
+
+}
+
+.master5{
+    height: 110px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+.submaster5{
+    height: 110px;
+    width: 110px;
+    border-top: none;
+    border-radius: 20%;
+    
+}
+
+
+.submaster5:hover{
+    background-color: red;
+    border-color: red;
+    transition:all 0.4s linear ;
+}
+
+.submaster5:not(:hover){
+    transition:all 1s linear 1s ;
+
+}
+
+
+.master6{
+    height: 110px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.submaster6{
+    height: 110px;
+    width: 110px;
+    border-top: none;
+    border-radius: 20%;
+    
+}
+
+.submaster6:hover{
+    background-color: red;
+    border-color: red;
+    transition:all 0.4s linear ;
+}
+
+.submaster6:not(:hover){
+    transition:all 1s linear 1s ;
+
+}
+
+.master7{
+    height: 110px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.submaster7{
+    height: 110px;
+    width: 110px;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 20%;
+    
+}
+
+
+.submaster7:hover{
+    background-color: red;
+    border-color: red;
+    transition:all 0.4s linear ;
+    
+}
+
+.submaster7:not(:hover){
+    transition:all 1s linear 1s ;
+
+}
