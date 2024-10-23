@@ -43,6 +43,6 @@ body{
 }
 
 .submaster:not(:hover){
-    transition:all .4s linear .4s ;
+    transition:all .3s linear .3s ;
 
 }
