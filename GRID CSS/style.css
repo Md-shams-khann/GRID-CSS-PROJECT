@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 757px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.master{
+    height: 770px;
+    width: 100%;
+    background-color: black;
+    
+}
+.master1{
+    height: 110px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.submaster{
+    height: 115px;
+    width: 130px;
+    border-top: none;
+    clip-path:polygon(0 25%, 50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%);
+    margin-right: 10px;
+    
+}
+
+#change{
+    padding-left: 54px;
+}
+
+.submaster:hover{
+    background-color: red;
+    border-color: rgb(64, 1, 1);
+    transition:all 400ms linear ;
+}
+
+.submaster:not(:hover){
+    transition:all .4s linear .4s ;
+
+}
